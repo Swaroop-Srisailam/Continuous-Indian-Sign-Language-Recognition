@@ -42,7 +42,7 @@ The dataset consists of 5000+ data points. The format of data is .npy, which mea
 5. Designing Model structure
 6. Training Model
 7. Evaluation of model on test data
-8. Download the `.h5` file from your Google Rrive
+8. Download the `.h5` file from your Google Drive
 
 ### Testing
 
